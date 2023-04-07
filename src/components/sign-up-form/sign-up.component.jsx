@@ -79,7 +79,7 @@ const SignUp = () => {
           type="password"
           required
         />
-        <Button type="submit">Stisni me!</Button>
+        <Button type="submit">Sign Up button</Button>
       </form>
     </div>
   );
